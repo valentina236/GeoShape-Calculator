@@ -1,0 +1,17 @@
+D:\VS Studio\Lab5\bin\Debug\net8.0-windows\Lab5.exe
+D:\VS Studio\Lab5\bin\Debug\net8.0-windows\Lab5.deps.json
+D:\VS Studio\Lab5\bin\Debug\net8.0-windows\Lab5.runtimeconfig.json
+D:\VS Studio\Lab5\bin\Debug\net8.0-windows\Lab5.dll
+D:\VS Studio\Lab5\bin\Debug\net8.0-windows\Lab5.pdb
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.Form1.resources
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.csproj.GenerateResource.cache
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.AssemblyInfoInputs.cache
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.AssemblyInfo.cs
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.csproj.CoreCompileInputs.cache
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.dll
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\refint\Lab5.dll
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.pdb
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.genruntimeconfig.cache
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\ref\Lab5.dll
+D:\VS Studio\Lab5\obj\Debug\net8.0-windows\Lab5.Properties.Resources.resources
